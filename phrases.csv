@@ -1,0 +1,611 @@
+file,english,ukrainian,source,note
+0.ogg,Startup sound,Звук увімкнення,community,
+1.ogg,Waiting for the network configuration.,Очікування налаштування мережі.,community,
+2.ogg,Unable to connect to the wifi network. Please check wifi password and try again later.,Неможливо підключитися до мережі Wi-Fi. Перевірте пароль Wi-Fi і повторіть спробу пізніше.,community,
+3.ogg,Unable to connect to the server. Please check your local network and try again later.,Неможливо підключитися до сервера. Перевірте локальну мережу та повторіть спробу пізніше.,community,
+4.ogg,Robot has exited network configuration mode.,Для робота вже існує режим конфігурації мережі.,community,
+5.ogg,Network connected successfully.,Підключення до мережі успішно встановлено.,community,
+6.ogg,Network connection failed. Please try again later.,Помилка підключення до мережі. Будь ласка спробуйте пізніше.,community,
+7.ogg,Start cleaning.,Починаю сухе прибирання.,community,
+8.ogg,Start spot cleaning.,Починаю точкове сухе прибирання.,community,
+9.ogg,Start scheduled cleaning.,Починаю планове сухе прибирання.,community,
+10.ogg,Start resuming cleaning.,Відновлюю процес прибирання.,community,
+11.ogg,Paused.,Призупинено.,community,
+12.ogg,Cleaning task completed.,Сухе прибирання завершено.,community,
+13.ogg,Returning to the dock to charge.,Повертаюсь на док-станцію для зарядки.,community,
+14.ogg,Low battery. Returning to the dock to charge. Robot will resume working after charging.,Низький заряд акумулятора. Поверніть робот на док-станцію для заряджання. Після зарядки робот відновить роботу.,community,
+17.ogg,Please move robot to the dock to charge.,"Будь ласка, перемістіть робот на док-станцію для заряджання.",community,"On r5039h this announcement is played from 863.ogg, not this file."
+18.ogg,Charging.,Заряджання.,community,"On r5039h this announcement is played from 856.ogg, not this file."
+19.ogg,Please move robot from the dock before turning it off.,"Будь ласка, перемыстыть робот з док-станції перед тим, як вимкнути його.",community,"On r5039h this announcement is played from 864.ogg, not this file."
+20.ogg,Low battery.,Низький заряд акумулятора.,community,
+21.ogg,Low battery. Robot will turn off.,Низький заряд акумулятора. Робот вимкнеться.,community,
+24.ogg,Please check whether water tank is installed properly.,"Будь ласка, перевірте, чи правильно встановлено резервуар для води.",community,
+25.ogg,Low battery. Unable to carry out the scheduled cleanup.,Низький заряд акумулятора. Неможливо виконати заплановане прибирання.,community,
+26.ogg,Restoring to factory settings.,Відновлення заводських налаштувань.,community,
+27.ogg,Updating. Taking about five minutes. Do not turn off nor start a cleaning task.,Виконується оновлення. Це займе близько п’яти хвилин. Не виключайте робот і не починайте прибирання.,community,
+28.ogg,Updated successfully.,Оновлення виконано успішно.,community,
+29.ogg,"Update failed, please try again.",Не вдалося оновити. Повторіть спробу.,community,
+30.ogg,"Positioning, please wait.","Встановлення місцезнаходження. Зачекайте, будь ласка.",community,
+31.ogg,Positioning failed. Map is invalid. Robot will start a new cleanup.,Помилка визначення місцезнаходження. Карта недійсна. Робот розпочне нове прибирання.,community,
+34.ogg,Dustbin not installed. Please install it.,"Пилозбірник не встановлено. Будь ласка, встановіть його.",community,
+35.ogg,Main brush error. Please check and clean it.,"Помилка основної щітки. Будь ласка, перевірте та очистіть її.",community,
+36.ogg,Side brush error. Please check and clean it.,"Помилка бічної щітки. Будь ласка, перевірте та очистіть її.",community,
+37.ogg,Right wheel error. Please check and clean it.,"Помилка правого колеса. Будь ласка, перевірте та очистіть його.",community,
+38.ogg,Left wheel error. Please check and clean it.,"Помилка лівого колеса. Будь ласка, перевірте та очистіть його.",community,
+39.ogg,Please clean cliff sensor.,"Колеса не торкаються поверхні. Протріть датчики падіння, змініть положення робота та перезапустіть його.",community,
+40.ogg,Robot stuck. Please move it to a new position to restart.,"Робот застряг. Будь ласка, перемістіть його на нове місце, щоб перезапустити.",community,
+41.ogg,Robot's wheels suspended. Please move robot back on the ground.,"Колеса не торкаються поверхні. Будь ласка, змініть положення робота та перезапустіть його.",community,
+42.ogg,Please check and clean filter.,"Будь ласка, перевірте та очистіть фільтр.",community,
+43.ogg,Bumper error. Please gently tap to see if it rebounds.,"Помилка бампера. Будь ласка, обережно торкніться, щоб побачити, чи відскочить він.",community,
+44.ogg,Error. Please check the user manual or contact customer service.,Помилка. Перегляньте посібник користувача або зверніться до служби підтримки клієнтів.,community,
+45.ogg,I am here.,Я тут.,community,
+46.ogg,Robot and phone connected. Please return to App to wait for the result.,"Робот підключений до телефону. Будь ласка, поверніться в додаток і дочекайтесь результату.",community,
+47.ogg,Start charging.,Початок заряджання.,community,
+48.ogg,Low battery. Returning to the dock.,Низький заряд акумулятора. Повертаюсь на док-станцію.,community,
+50.ogg,Charging error. Please clean charging contacts.,"Помилка зарядки. Будь ласка, очистіть контакти для заряджання.",community,
+52.ogg,Robot tilted. Please put it on a level ground to restart.,"Робот нахилений. Будь ласка, розмістіть його на рівній поверхні для перезапуску.",community,
+54.ogg,Positioning succeeded. Resuming cleaning.,Місцезнаходження визначено. Продовжую сухе прибирання.,community,
+55.ogg,Positioning succeeded. Resuming returning to the dock.,Місцезнаходження визначено. Повертаюся на док-станцію.,community,
+56.ogg,Start selected room cleaning.,Починаю прибирання сухе вибраних кімнат.,community,
+57.ogg,Start zoned cleaning.,Починаю зональне сухе прибирання.,community,
+58.ogg,Proceed with cleaning task.,Продовжую сухе прибирання.,community,
+59.ogg,Mopping completed. Please remove water tank timely.,"Вологе прибирання завершено. Будь ласка, вчасно вийміть резервуар для води.",community,
+61.ogg,Start mopping.,Починаю вологе прибирання.,community,
+62.ogg,Start remote control cleaning.,Починаю прибирання за допомогою дистанційного керування.,community,
+64.ogg,Positioning failed. Map is invalid. Robot will return to dock.,Помилка визначення місцезнаходження. Карта недійсна. Робот повернеться на док-станцію.,community,
+65.ogg,Resume returning to the dock.,Продовжую повернення на док-станцію.,community,
+66.ogg,Filter worn out. Please replace it timely.,"Зношений фільтр. Будь ласка, вчасно замініть його.",community,
+67.ogg,Side brush worn out. Please replace it timely.,"Зношена бічна щітка. Будь ласка, вчасно замініть її.",community,
+68.ogg,Main brush worn out. Please replace it timely.,"Зношена основна щітка. Будь ласка, вчасно замініть її.",community,
+71.ogg,Laser sensor error. Please check and clean the laser sensor.,"Помилка лазерного датчика. Будь ласка, перевірте та очистіть лазерний датчик.",community,
+72.ogg,Please check whether laser distance sensor cover is jammed.,"Будь ласка, перевірте, чи заблокована кришка лазерного датчика відстані.",community,
+73.ogg,Edge sensor error. Please check and clean it.,"Помилка датчика виявлення краю. Будь ласка, перевірте та очистіть його.",community,
+75.ogg,Filter may not be dry or may be blocked.,"Перевірте, чи фільтр не вологий або чи він не забитий.",community,
+77.ogg,Please start robot in non-carpet area.,"Будь ласка, почніть роботу на поверхні не вкритій килимом.",community,
+81.ogg,Ultrasonic sensor error. Please restart robot or contact customer service.,"Помилка ультразвукового датчика. Будь ласка, перезапустіть пристрій або зверніться до служби підтримки клієнтів.",community,
+82.ogg,Start mapping.,Розпочинаю створення карти.,community,
+83.ogg,Proceed with mapping.,Продовжую побудову карти.,community,
+84.ogg,Mapping completed.,Карту створено.,community,
+85.ogg,Positioning succeeded. Proceeding with mapping.,Місцезнаходження визначено. Продовжую побудову карти.,community,
+86.ogg,Positioning failed. Restarting mapping.,Помилка визначення місцезнаходження. Повторна спроба створення карти.,community,
+87.ogg,Low battery. Returning to the dock.,Низький заряд акумулятора. Повертаюсь на док-станцію.,community,
+91.ogg,The clean water tank is not installed. Please install it before the robot carries on working.,"Бак з чистою водою не встановлено. Будь ласка, встановіть його перед тим, як робот продовжить роботу.",community,
+93.ogg,There is not enough water in the clean water tank. Add water to the tank before the robot carries on working.,"У баку з чистою водою недостатньо води. Будь ласка, наповніть його перед тим, як робот продовжить роботу.",community,
+97.ogg,The dust collection bag is not installed. Please install it before the robot carries on working.,"Мішок для збору пилу не встановлено. Будь ласка, встановіть його перед тим, як робот продовжить роботу.",community,
+101.ogg,The upper cover of auto-empty base is not closed or the dust collection bag is not installed. Please close the upper cover or install the bag.,"Верхню кришку бази автоочистки не закрито або мішок для збору пилу не встановлено. Будь ласка, закрийте верхню кришку або встановіть мішок для збору пилу.",community,
+102.ogg,The dust collection bag is full or the air duct is blocked. Please replace the bag with a new one or clean the air duct in time.,"Мішок для збору пилу заповнено або вентиляційний канал заблоковано. Будь ласка, замініть мішок на новий або своєчасно очистіть вентиляційний канал.",community,
+104.ogg,The mop pad wash board is not installed. Please ensure that a wash board is installed and clasps on its both sides are tightly fastened.,"Будь ласка, переконайтеся, що платформа для очищення мопа встановлена, і застібки на обох сторонах міцно закріплені.",community,
+105.ogg,Start cleaning.,Починаю прибирання.,community,
+106.ogg,Start cleaning the mop.,Розпочинаю очищення накладок для мопа.,community,
+107.ogg,Start dehydrating the mop.,Розпочинаю віджимання накладок для мопа.,community,
+108.ogg,The water level of mop pad wash board is abnormal. Please clean it in time to avoid blockage.,"Помилка рівня води платформи для очищення мопа. Будь ласка, очистіть її.",community,
+109.ogg,An exception occurred in the dirty water tank. Please ensure that a dirty water tank is installed and timely empty the dirty water inside.,"Помилка бака для використаної води. Переконайтеся, що він правильно встановлений та пустий.",community,
+110.ogg,Start auto empty.,Розпочинаю автоматичне спорожнення.,community,
+111.ogg,Mop pads off. Please install them before resuming working.,"Мопи не встановлені. Будь ласка, встановіть їх для продовження роботи.",community,
+112.ogg,Place robot back onto the self-wash base before use.,"Перед використанням, поставте робота на базу для самоочищення.",community,"On r5039h this announcement is played from 858.ogg, not this file."
+113.ogg,Task completed. Please empty waste tank timely.,"Завдання виконано. Будь ласка, вчасно спорожняйте бак для використаної води.",community,
+114.ogg,Mop pads installed.,Мопи встановлено.,community,
+115.ogg,Mop pads removed.,Мопи видалено.,community,
+116.ogg,Child lock on. Buttons locked.,Блокування від дітей увімкнено. Кнопки заблоковані.,community,
+117.ogg,Child lock off. Buttons unlocked.,Блокування від дітей вимкнено. Кнопки розблоковані.,community,
+118.ogg,Buttons locked. Press and hold the dock button to unlock.,"Кнопки заблоковані. Натисніть і утримуйте кнопку на станції, щоб розблокувати.",community,
+126.ogg,Start cleaning.,Починаю прибирання.,community,
+127.ogg,Start spot cleaning.,Починаю точкове прибирання.,community,
+128.ogg,Start spot mopping.,Починаю точкове вологе прибирання.,community,
+129.ogg,Start scheduled cleaning.,Починаю планове прибирання.,community,
+130.ogg,Start scheduled mopping.,Починаю планове вологе прибирання.,community,
+133.ogg,Start selected room cleaning.,Починаю прибирання вибраних кімнат.,community,
+134.ogg,Start selected room mopping.,Починаю вологе прибирання вибраних кімнат.,community,
+135.ogg,Start zoned cleaning.,Починаю зональне прибирання.,community,
+136.ogg,Start zoned mopping.,Починаю зональне вологе прибирання.,community,
+137.ogg,Resume cleaning.,Продовжую прибирання.,community,
+138.ogg,Resume mopping.,Продовжую вологе прибирання.,community,
+139.ogg,Resume returning to the base for self-cleaning.,Продовжую повернення на станцію для самоочищення.,community,
+140.ogg,New environment is detected. Returning to the self-wash base.,Виявлено нове оточення. Повертаюсь на станцію для самоочищення.,community,"On r5039h this announcement is played from 859.ogg, not this file."
+142.ogg,Mop pad worn out. Please replace it timely.,"Термін служби мопа минув. Будь ласка, вчасно замініть його.",community,
+143.ogg,Cleaning completed.,Прибирання завершено.,community,
+144.ogg,Mopping completed.,Вологе прибирання завершено.,community,
+145.ogg,Positioning successful. Resume cleaning.,Місцезнаходження визначено. Продовжую прибирання.,community,
+146.ogg,Positioning successful. Resume mopping.,Місцезнаходження визначено. Продовжую вологе прибирання.,community,
+148.ogg,Return to the base for self-cleaning.,Повертаюсь на станцію для самоочищення.,community,
+149.ogg,Unable to reach the specified area. Please try to clear obstacles in the path.,Не вдається дістатися вказаної зони. Спробуйте прибрати перешкоди на шляху.,community,
+150.ogg,Unable to reach the specified area. Please try to delete no-go zones in the path.,Не можливо дістатися до вказаної області. Спробуйте видалити обмежувальні зони на шляху.,community,
+151.ogg,The path is blocked. Please try to clear obstacles around your robot.,Маршрут заблокований. Спробуйте прибрати перешкоди поблизу вашого робота.,community,
+152.ogg,The path is blocked. Please try to delete no-go zones or move your robot out of this area.,Шлях заблокований. Спробуйте видалити обмежувальні зони або перемістіть вашого робота з цієї області.,community,
+153.ogg,Your robot is detected in the no-go zone. Please move your robot out of this area.,Робот виявлено всередині забороненої зони. Перемістіть робот за межі цієї зони.,community,
+156.ogg,Mop pad tray uninstalled.,Підставку для мопа не встановлено.,community,
+162.ogg,Camera is on,Увімкнено камеру.,community,
+163.ogg,Camera monitoring,Відеомоніторинг.,community,
+164.ogg,Task ends,Завдання завершено.,community,
+166.ogg,Please clean the foreign objects tangled in the mop pad,"Будь ласка, видаліть сторонні об'єкти з накладок для мопа.",community,
+169.ogg,Mop pad drying complete,Накладки для мопа просушені.,community,
+170.ogg,All the buttons are locked. Please press and hold the buttons on the base station to unlock,"Всі кнопки заблоковані. Щоб розблокувати, натисніть і утримуйте кнопки на базовій станції.",community,
+171.ogg,AI recognition function on,Функція розпізнавання на базі штучного інтелекту включена.,community,
+172.ogg,AI recognition function off,Функція розпізнавання на базі штучного інтелекту виключена.,community,
+173.ogg,Please replace the Silver Ion sterilizer,"Будь ласка, замініть срібний іонізатор води.",community,
+177.ogg,Leaving the base station,Рушаю з базової станції.,community,
+179.ogg,Mop pad cleaned. The water in the clean water tank is insufficient. Please fill the clean water tank and empty the used water tank,"Накладки для мопа очищено. Бак для чистої води порожній. Будь ласка, наповніть його та спорожніть бак з використаною водою.",community,
+181.ogg,Insufficient water. Please fill the clean water tank,"Недостатньо води. Будь ласка, наповніть бак для чистої води.",community,
+186.ogg,Please check the fresh tank,"Будь ласка, перевірте бак для чистої води.",community,
+187.ogg,It will about 5 to 10 minutes,Це займе близько 5-10 хвилин.,community,
+188.ogg,Automatic docking engaged,Розпочалось автоматичне стикування.,community,
+190.ogg,"Okay, start cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+191.ogg,"Okay, start vacuuming and mopping.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+192.ogg,"Okay, start mopping.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+193.ogg,"Ok, start vacuuming.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+194.ogg,have been cleaning.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+195.ogg,"Okay, start to clean the room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+196.ogg,"Okay, start to vacuum the floor. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+197.ogg,"Okay, start to mop the floor. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+198.ogg,"Okay, start to vacuum and mop the floor. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+199.ogg,Unable to recognize this room. Please open the app to check the room name.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+200.ogg,Shutdown sound,Shutdown sound,community,
+201.ogg,"Okay, continue working.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+202.ogg,"Okay, task is ended. Start returning to charge.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+203.ogg,"Okay, heading back to charge.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+204.ogg,"Okay, start mapping. Please make sure all doors are open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+205.ogg,"Okay, exit the base station.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+206.ogg,"Okay, I'll try to find you.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+207.ogg,"Sorry, I can't find you. Please stand within my sight.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+208.ogg,"Found you, coming to clean now.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+209.ogg,"Okay, returning to the dock to clean the mop pad.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+210.ogg,Start mob pads washing.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+211.ogg,"Sorry, self emptying can only be done when I'm inside the dock.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+212.ogg,"Okay, start auto emptying.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+213.ogg,"Sorry, drying can only be done when I'm inside the dock.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+214.ogg,Drawing in progress.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+215.ogg,"Okay, start drying.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+216.ogg,"Sorry, need to install the mop pad first.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+217.ogg,Maximum suction power reached.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+218.ogg,minimum suction power reached.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+219.ogg,Maximum humidity reached.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+220.ogg,minimum humidity reached.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+221.ogg,Okay.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+222.ogg,The suction mode is quiet.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+223.ogg,The suction mode is standard.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+224.ogg,The suction mode is strong.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+225.ogg,The suction mode is turbo.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+226.ogg,The mop pad is slightly dry.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+227.ogg,The Moppad is moist.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+228.ogg,The mop pad is wet.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+229.ogg,Today is...,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+230.ogg,"Today is February 21, 2022.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+231.ogg,Today is Monday.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+232.ogg,Today is Tuesday.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+233.ogg,Today is Wednesday.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+234.ogg,today is Thursday.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+235.ogg,today as Friday,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+236.ogg,Today is Saturday.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+237.ogg,Today is Sunday.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+238.ogg,"Okay, the task is passed.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+244.ogg,Detergent bottle installed,Ємність з засобом для чищення встановлено.,community,
+245.ogg,The number of maps has reached the limit. Please delete a map and try again.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+246.ogg,I'm here.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+247.ogg,"Sorry, I can't understand.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+248.ogg,"Moppad not installed, please install it and try again.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+249.ogg,"I'm working, please end the current task and retry.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+250.ogg,"Currently in Mopping Mode now, please switch to vacuuming mode or vacuuming in Mopping Mode first.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+251.ogg,"Currently in vacuuming mode now, please switch to Mopping mode or vacuuming and Mopping mode first.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+252.ogg,"finished, exited the customized cleaning mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+253.ogg,Maximum volume reached.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+254.ogg,minimum volume reached.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+255.ogg,"Sorry, this task can only be performed when intelligent obstacle avoidance is enabled.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+257.ogg,Camera monitoring exited,Відеомоніторинг виключено.,community,
+258.ogg,Self-positioned. Cruising started,Місцезнаходження визначено. Рух розпочато.,community,
+259.ogg,Self-positioned. Proceeding to the designated location,Місцезнаходження визначено. Рухаюсь до вказаної локації.,community,
+260.ogg,Self-positioned. Cruising resumed,Місцезнаходження визначено. Продовжую рух.,community,
+261.ogg,Self-positioned. Resume proceeding to the designated location,Місцезнаходження визначено. Продовжую рух до вказаної локації.,community,
+262.ogg,Self-positioning failed,Збій визначення місцезнаходження.,community,
+266.ogg,Please replace the detergent,"Будь ласка, замініть засіб для чищення.",community,
+267.ogg,Please clean the sensors,"Будь ласка, очистіть датчики.",community,
+269.ogg,Please try again after the current task is complete.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+274.ogg,*Ding sound*,Ding sound,community,
+275.ogg,"Sorry, this command is not supported. You can open the app for more voice commands.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+276.ogg,"Sorry, robot isn't performing this task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+277.ogg,"Okay, I'm coming to clean up there.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+278.ogg,"Okay, drying task ended.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+279.ogg,"Robot is vacuuming, please end the task and try again.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+280.ogg,Start custom cleaning,Починаю користувацьке прибирання.,community,
+281.ogg,The robot is auto emptying. Please try again later,"Робот здійснює автоочищення. Будь ласка, повторіть спробу пізніше.",community,
+282.ogg,The robot is cleaning the mop pad. Please try again later,"Робот виконує очищення накладок для мопа. Будь ласка, повторіть спробу пізніше.",community,
+283.ogg,The robot is not in the base station. Please try again later,"Робот не знаходиться на базовій станції. Будь ласка, повторіть спробу пізніше.",community,
+284.ogg,"Okay, I'll end the task and come to clean.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+285.ogg,Please stay put for a moment while I locate you.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+286.ogg,"Sorry, please create a map and try again.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+287.ogg,"Okay, have switched to quiet mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+288.ogg,"Okay, have switched to standard mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+289.ogg,"Okay, have switched to strong mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+290.ogg,"Okay, have switched to Turbo mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+291.ogg,"Okay, have switched to slightly dry mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+292.ogg,"Okay, have switched to wet mode.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+293.ogg,Calling enabled,Виклики активовано.,community,
+294.ogg,Calling disabled,Виклики деактивовано.,community,
+296.ogg,Dirty water tank error. Please check if the tank is full.,Помилка бака з відпрацьованою водою. Перевірте заповненість бака.,community,
+297.ogg,"Detergent bottle installed. If detergent has not been used before, please configure it in the app.","Ємність з засобом для чищення встановлено. Якщо раніше засіб не використовувався, виконайте налаштування у додатку.",community,
+298.ogg,Base station starts self-cleaning. Please clean its interior with a brush or cloth. Water will drain from the washing board in three minutes.,"Базова станція починає самоочищатися. Будь ласка, очистіть її внутрішню частину щіткою або тканиною. Через три хвилини вода буде зливатись з пральної дошки.",community,
+299.ogg,Detergent bottle and auto-refill module installed.,Ємність із засобом для чищення і модуль для автонаповнення встановлено.,community,
+300.ogg,Your robot doesn't support this accessory.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+301.ogg,I'm charging.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+302.ogg,I'm working.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+303.ogg,I'm in a days.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+304.ogg,Network connected.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+305.ogg,"Okay, start cleaning washboard base. Please clean it inside with a brush or cloth. After 3 minutes, sewage in the washboard base will be drained.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+306.ogg,"Sorry, I can't understand. Please configure the network and retry.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+307.ogg,I'm charging.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+308.ogg,"Sorry, I didn't catch that. Please wake me up again and retry.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+309.ogg,"Found you, I'm coming.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+310.ogg,"Okay, I'm leaving this area right away.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+311.ogg,Mop pads removed.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+312.ogg,Usage information of this accessory is unavailable. Please replace it as you need.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+313.ogg,"Sorry, network is poor. Please move me to an area with a better signal.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+314.ogg,"Not supported, you can ask me to turn around.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+315.ogg,Moppad is not in the dock. Please retry after putting it in the dock.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+316.ogg,There is Moppad in the base station already.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+317.ogg,"Not supported, the robot is performing the customized cleaning task. Please go to the app to edit.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+318.ogg,Mop pads cleaned.,Накладки для мопа очищено.,community,
+319.ogg,failed to remove mop pads. Please remove the manually.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+320.ogg,failed to install mop pads. Please install them manually.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+321.ogg,Start intensive mopping for stains.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+322.ogg,"Sorry, I can't understand. You can open the app for all available voice commands.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+323.ogg,"Sorry, I can't understand. You can say, hi, dream, what can you do to learn all my functions?",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+324.ogg,"I'm washing them up, Cadd. Please wake me up after washing is done.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+328.ogg,"Sorry, please give this command only when I'm cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+329.ogg,Start self-diagnosis. Please do not remove me from the base station.,"Почніть самодіагностику. Будь ласка, не вилучайте мене з базової станції.",community,
+330.ogg,Please try again after self-diagnosis is complete.,"Будь ласка, повторіть спробу після завершення самодіагностики.",community,
+331.ogg,No errors found. You can use the device with confidence.,Помилок не виявлено. Ви можете з упевненістю користуватися пристроєм.,community,
+332.ogg,One error found. Please go to the app to see more detailed information.,"Знайдено одну помилку. Будь ласка, перейдіть в додаток, щоб побачити більш детальну інформацію.",community,
+337.ogg,,,unknown,No public label for this file.
+338.ogg,Video call connected.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+339.ogg,Cardi,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+340.ogg,No response.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+341.ogg,"Found you. Now start following. You can say, exit to end the following.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+342.ogg,Where are you? Please stand about 1.5 meters in front of me.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+343.ogg,"I lost you. You are walking too fast. Please stand about 1.5 meters in front of me, waiting for me to find you again.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+344.ogg,"Ok, start mopping after vacuuming.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+346.ogg,,,unknown,No public label for this file.
+349.ogg,Ensure that the base station is powered on. Place the robot on it to start activation.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+350.ogg,Start base station activation.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+351.ogg,Vase Station activated.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+352.ogg,Base Station activation failed. Open the app to check the solution.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+353.ogg,Dirty water tank installed.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+354.ogg,Dirty water tank removed.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+355.ogg,"Low water level, please fill the clean water tank.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+356.ogg,Fault still exists. The scheduled task has been cancelled.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+358.ogg,Please install the dirty water tank.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+360.ogg,Draining water from the tank.,Зливаю воду з резервуару.,community,
+361.ogg,Robot water tank drainage completed.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+362.ogg,Moppad out of place. Robot will perform the vacuuming task instead.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+363.ogg,"Vacuuming task completed, robot will start mopping.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+364.ogg,Start setting the video activation code.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+365.ogg,Live video function has been disabled.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+366.ogg,"Staying detected, start cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+367.ogg,"Okay, start stain cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+368.ogg,"Staying detected, I'll clean it after washing them up.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+369.ogg,"Okay, start spot cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+371.ogg,Please remove the washboard.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+372.ogg,Clean water starts outflowing.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+373.ogg,"Clean water outflowing process ended. Please wait for 10 seconds, and then clean the base station after the darts are soaked.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+374.ogg,Please use a brush or cloth to clean the bottom of the base station within 20 seconds. Then the sewage will be pumped out automatically.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+375.ogg,Please push the derts to the pumping court. The pumping process will last for 30 seconds.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+376.ogg,"Pumping process ended, please clean the washboard separately and install it back.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+377.ogg,Unable to configure the network. Please contact customer service.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+378.ogg,"Run password, fail to connect to the network. Please reconfigure.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+379.ogg,"No wireless network found, please connect to the 2.4 GHz Wi-Fi band. Try again after placing the robot close to the router.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+380.ogg,Failed to obtain the IP address. Please check the router settings.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+381.ogg,Fail to connect to the EMQ server. Please contact customer service.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+382.ogg,Fail to connect to the network. Please check whether the network works normally.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+383.ogg,Unable to configure the network. Please contact customer service.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+384.ogg,No water in the clean water tank of the automatic water supply and drainage device.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+385.ogg,Start connecting to the network.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+386.ogg,Dirty water tank is full. Returning to empty it.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+387.ogg,Emptying finished. The task continues.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+388.ogg,"Hit an area, please move the robot to the available area and retry.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+389.ogg,LDS failed to descend. Please check if it is stuck.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+390.ogg,LDS failed to lift. Please check if it is stuck.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+391.ogg,Please place me in an open area before starting the task.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+392.ogg,Adjusting cleaning parameters is not supported in clean genius mode.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+393.ogg,Dirty water tank is dirty.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+394.ogg,Water sensor fault.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+396.ogg,"Start emptying the water supply and drainage module, which is expected to take 3 minutes.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+397.ogg,drainage of upper and lower water completed.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+398.ogg,"Mapping complete, check the map and app and return me to dock.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+399.ogg,"Test complete, please move me back to dock.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+400.ogg,"Self-cleaning completed, now move the host to the corresponding floor and flip the start button to continue working.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+401.ogg,Please move me to dock and start the self-cleaning task.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+421.ogg,Switch the language successfully.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+424.ogg,"Positioning failed, please move me to an open area and restart the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+426.ogg,I've slipped and gotten stuck. I'll keep trying to free myself.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+433.ogg,Start extra cleaning.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+434.ogg,Extra cleaning completed. Original cleaning task continues.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+435.ogg,Leaving the current area.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+436.ogg,Aqui nrluwnvak,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+437.ogg,"Problem solved, tap Start button to resume cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+438.ogg,Bumper stuck. Please gently tap the bumper to ensure it rebounds normally.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+439.ogg,"LDS cover stuck, please gently tap its flexible area to ensure rebound normally.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+440.ogg,"Robots wheel suspended, please move it to an open area and restart the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+441.ogg,"main brush entangled, please remove and clean it before reinstalling.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+442.ogg,"Side brush entangled, please remove and clean it before reinstalling.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+443.ogg,"main wheels entangled, please clean them.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+444.ogg,Please place the robot in an open area before starting the task.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+445.ogg,"Mop has fallen off, please find it around robot and reinstall it.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+446.ogg,"Mop holder entangled, please remove and clean it.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+447.ogg,"Doc is not powered on, please check and put robot back to charge.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+448.ogg,"Used water tank is not installed, please install it before starting the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+449.ogg,"Unable to start tasks on carpets, please move robot to hard floor and restart the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+450.ogg,"Unable to start tasks in No Go Zone, please move robot to other areas and restart the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+451.ogg,"Unable to start tasks in hidden area, please move robot to other areas and restart the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+452.ogg,"Carpet sensor error, please turn over robot, wipe the white round hole on the bottom and restart robot.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+453.ogg,"Edge sensor error, please wipe robots right side and restart the task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+454.ogg,"insufficient water in the clean water tank, please fill it with clean water timely.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+455.ogg,Clean water tank is not in the right place. Please reinstall it.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+456.ogg,"Use water tank full or not installed, please check.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+457.ogg,"Use water tank full or not installed, please check.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+458.ogg,"Dustbag is not in the right place, please check and install it.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+459.ogg,"Mob holder is not in the right place, please check and install it.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+460.ogg,"Used water tank the odorizer is worn out, please replace it timely.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+463.ogg,Welcome to use Dream Robot. Please open robots cover and scan QR code to download Dream Home app to view more operations.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+464.ogg,"To complete subsequent tasks smoothly, place robot back into dock before starting tasks. When hearing, start charging, it means the installation is in place.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+465.ogg,"Place robot back into dock before starting tasks. When hearing, start charging, it means the installation is in place.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+466.ogg,Please open room doors to be cleaned and clean up objects on the ground.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+467.ogg,"Please place robot back into dock, then restart mapping.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+468.ogg,Please confirm map details in the app.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+469.ogg,,,unknown,No public label for this file.
+470.ogg,,,unknown,No public label for this file.
+471.ogg,,,unknown,No public label for this file.
+472.ogg,,,unknown,No public label for this file.
+473.ogg,,,unknown,No public label for this file.
+474.ogg,,,unknown,No public label for this file.
+475.ogg,,,unknown,No public label for this file.
+476.ogg,,,unknown,No public label for this file.
+477.ogg,,,unknown,No public label for this file.
+478.ogg,"After completing mop washing, robot will resume cleaning task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+479.ogg,"Already, restart your task.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+480.ogg,Add enough water in the clean water tank for subsequent tasks.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+481.ogg,Start emptying the vacuum cleaner.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+482.ogg,Vacuum cleaner is being emptied. Robot emptying will be done later.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+483.ogg,Vacuum cleaner is being emptied. Mop washing will be done later.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+484.ogg,Vacuum cleaner is being emptied. Robot vacuuming will be done later.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+485.ogg,"Robot is being emptied, vacuum cleaner will be emptied later.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+486.ogg,Mop washing is in process. Vacuum cleaner will be emptied later.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+487.ogg,Please ensure I am in the dock.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+488.ogg,,,unknown,No public label for this file.
+490.ogg,"Okay, enter Customize Cleaning Mode, start mopping.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+491.ogg,"Okay, enter Customize Cleaning Mode, start vacuuming.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+492.ogg,"Okay, start to clean the living room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+493.ogg,"Okay, start to clean the bedroom. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+494.ogg,"Okay, start to clean the master room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+495.ogg,"Okay, start to clean the guest room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+496.ogg,"Okay, start to clean the study. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+497.ogg,"Okay, start to clean the kitchen. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+498.ogg,"Okay, start to clean the dining room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+499.ogg,"Okay, start to clean the bathroom. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+500.ogg,"Okay, start to clean the balcony. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+501.ogg,"Okay, start to clean the hallway. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+502.ogg,"Okay, start to clean the utility room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+503.ogg,"Okay, start to clean the closet. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+504.ogg,"Okay, start to clean the drawing room. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+505.ogg,"Okay, start to clean the office. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+506.ogg,"Okay, start to clean the gym. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+507.ogg,"Okay, start to clean the recreation area. Make sure the door is open.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+508.ogg,"Ok, I've turned up the volume.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+509.ogg,"Okay, I've turned down the volume.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+510.ogg,"Okay, I've ended the work.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+511.ogg,"Sorry, I am not performing a task now.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+512.ogg,Map doesn't include pet furniture yet. Please add it in the app.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+513.ogg,"Okay, heading to clean around the pet furniture.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+515.ogg,"Excuse me, could you please lift your feet so I can clean this area?",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+516.ogg,Start finding pets.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+517.ogg,"Find your pets successfully, start returning to charge.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+518.ogg,"No pets found, start returning to charge.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+522.ogg,What issue would you like to report?,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+523.ogg,Could you please describe the issue in more detail?,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+524.ogg,Please take me to the area where the issue occurred.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+525.ogg,"Please wait, I'm analyzing.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+526.ogg,Battery level is 100%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+527.ogg,Battery level is 99%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+528.ogg,Battery level is 98%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+529.ogg,Battery level is 97%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+530.ogg,Battery level is 96%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+531.ogg,Battery level is 95%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+532.ogg,Battery level is 94%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+533.ogg,Battery level is 93%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+534.ogg,Battery level is 92%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+535.ogg,Battery level is 91%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+536.ogg,Battery level is 90%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+537.ogg,Battery level is 89%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+538.ogg,Battery level is 88%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+539.ogg,Battery level is 87%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+540.ogg,Battery level is 86%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+541.ogg,Battery level is 85%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+542.ogg,Battery level is 84%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+543.ogg,Battery level is 83%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+544.ogg,Battery level is 82%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+545.ogg,Battery level is 81%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+546.ogg,Battery level is 80%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+547.ogg,Battery level is 79%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+548.ogg,Battery level is 78%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+549.ogg,Battery level is 77%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+550.ogg,Battery level is 76%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+551.ogg,Battery level is 75%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+552.ogg,Battery level is 74%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+553.ogg,Battery level is 73%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+554.ogg,Battery level is 72%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+555.ogg,Battery level is 71%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+556.ogg,Battery level is 70%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+557.ogg,Battery level is 69%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+558.ogg,Battery level is 68%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+559.ogg,Battery level is 67%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+560.ogg,Battery level is 66%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+561.ogg,Battery level is 65%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+562.ogg,Battery level is 64%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+563.ogg,Battery level is 63%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+564.ogg,Battery level is 62%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+565.ogg,Battery level is 61%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+566.ogg,Battery level is 60%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+567.ogg,Battery level is 59%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+568.ogg,Battery level is 58%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+569.ogg,Battery level is 57%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+570.ogg,Battery level is 56%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+571.ogg,Battery level is 55%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+572.ogg,Battery level is 54%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+573.ogg,Battery level is 53%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+574.ogg,Battery level is 52%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+575.ogg,Battery level is 51%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+576.ogg,Battery level is 50%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+577.ogg,Battery level is 49%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+578.ogg,Battery level is 48%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+579.ogg,Battery level is 47%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+580.ogg,Battery level is 46%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+581.ogg,Battery level is 45%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+582.ogg,Battery level is 44%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+583.ogg,Battery level is 43%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+584.ogg,Battery level is 42%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+585.ogg,Battery level is 41%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+586.ogg,Battery level is 40%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+587.ogg,Battery level is 39%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+588.ogg,Battery level is 38%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+589.ogg,Battery level is 37%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+590.ogg,Battery level is 36%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+591.ogg,Battery level is 35%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+592.ogg,Battery level is 34%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+593.ogg,Battery level is 33%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+594.ogg,Battery level is 32%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+595.ogg,Battery level is 31%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+596.ogg,Battery level is 30%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+597.ogg,Battery level is 29%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+598.ogg,Battery level is 28%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+599.ogg,Battery level is 27%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+600.ogg,Battery level is 26%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+601.ogg,Battery level is 25%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+602.ogg,Battery level is 24%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+603.ogg,Battery level is 23%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+604.ogg,Battery level is 22%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+605.ogg,Battery level is 21%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+606.ogg,Battery level is 20%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+607.ogg,Battery level is 19%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+608.ogg,Battery level is 18%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+609.ogg,Battery level is 17%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+610.ogg,Battery level is 16%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+611.ogg,Battery level is 15%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+612.ogg,Battery level is 14%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+613.ogg,Battery level is 13%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+614.ogg,Battery level is 12%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+615.ogg,Battery level is 11%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+616.ogg,Battery level is 10%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+617.ogg,Battery level is 9%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+618.ogg,Battery level is 8%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+619.ogg,Battery level is 7%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+620.ogg,Battery level is 6%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+621.ogg,Battery level is 5%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+622.ogg,Battery level is 4%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+623.ogg,Battery level is 3%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+624.ogg,Battery level is 2%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+625.ogg,Battery level is 1%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+626.ogg,Battery level is 0%.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+630.ogg,"Welcome to use MOVA, robot. Please open robots cover and scan QR code to download app to view more operations.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+631.ogg,First-setup greeting. Scan the QR code.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+632.ogg,Built and voice assistant language switching takes approximately 30 seconds.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+633.ogg,"Language switch failed, please go to the Settings page to reset.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+634.ogg,Hair detangling starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+636.ogg,"The mop is dirty, please move robot to the dock for automatic mop washing.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+638.ogg,resuming auto empty.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+639.ogg,Please install the washboard filter.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+658.ogg,"Scale inhibitor has expired, please replace it in time.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+661.ogg,"Start cleaning washboard base, it will take about 45 to 60 seconds.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+662.ogg,Start making electrolyzed water to clean them up.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+663.ogg,"Abnormal water level detected in the washboard. Please clean the washboard filter and washboard filter groove, then restart the task.",,x50_catalog_en,"English label from an X50 Ultra catalog. Not checked by listening on the L50. On r5039h this announcement is played from 823.ogg, not this file."
+673.ogg,Clearance legs may be entangled. Please clean them before starting the tasks.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+674.ogg,The mop may be stuck or tangled.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+677.ogg,"Unable to reach the specified area, please remove the no-go zones or impassable thresholds on the path.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+678.ogg,"Cleaning path is blocked, please remove the no-go zones or impassable thresholds in the map, or move robot out of the area.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+679.ogg,Robot is blocked in a no-go zone or impassable threshold area. Please move it out of the area.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+680.ogg,Robot will map the area before cleaning.,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+681.ogg,"Okay, I'll continue cleaning.",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+683.ogg,Mop is not attached.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+684.ogg,Hey!,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+685.ogg,Buh! Buh!,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+686.ogg,,,unknown,No public label for this file.
+687.ogg,SP THE NATION,,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+688.ogg,"Turns out this whole area, Reese's ocean, rampant",,x50_catalog_en,English label from an X50 Ultra catalog. Not checked by listening on the L50.
+689.ogg,Drying of the dustbin and bag starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+690.ogg,Drying of the dustbin and bag paused.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+691.ogg,Mop is being washed. Try again later.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+692.ogg,Returning to charge. Extra cleaning is not available.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+696.ogg,Cover error.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+697.ogg,Locked. Turn off the child lock.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+698.ogg,"Mapping finished, station not found. Cleaning on its own.",,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+699.ogg,Sensor error. Check the camera sensor.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+701.ogg,The plate is hot. Do not touch it.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+702.ogg,Cleaning with a temporary map is not available.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+703.ogg,Dust and mop drying starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+704.ogg,Mop drying paused.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+706.ogg,Roller malfunction.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+707.ogg,Chassis malfunction.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+708.ogg,The way to the charging station is blocked.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+711.ogg,Disinfection starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+712.ogg,The washboard is hot. Do not touch it.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+714.ogg,,,unknown,No public label for this file.
+715.ogg,Mop is missing from the base station.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+716.ogg,Mop is missing. The task continues in standard mode.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+717.ogg,Mop is not seated correctly.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+718.ogg,Cannot change this in power-saving mode.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+719.ogg,Mop change failed.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+721.ogg,,,unknown,No public label for this file.
+722.ogg,Mop is warming up in hot water. This takes longer.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+723.ogg,Mapping tip: turn the lights on and keep doors clear.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+724.ogg,Mop in the station is positioned incorrectly.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+725.ogg,Mop cover error.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+726.ogg,Roller mop error.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+727.ogg,,,unknown,No public label for this file.
+728.ogg,Floor treatment starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+729.ogg,Mop is being changed. Try again later.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+730.ogg,,,unknown,No public label for this file.
+731.ogg,Dirty water tank is full. Return it to the station.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+751.ogg,,,unknown,No public label for this file.
+752.ogg,Floor treatment resumes.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+754.ogg,Positioning succeeded. Floor treatment continues.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+755.ogg,Laser sensor is obstructed. Check it for dirt.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+757.ogg,Dirty water tank is full. Please empty it.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+758.ogg,Water level is low. Refill it at the station.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+765.ogg,Mop is being replaced. Try again later.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+771.ogg,Roller mop has stopped or is blocked.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+775.ogg,Keep the cover closed while the mop is running.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+776.ogg,,,unknown,No public label for this file.
+777.ogg,Time limit reached. Check for obstacles under the robot.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+778.ogg,Watch your fingers.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+779.ogg,Time limit for removing the mop has expired.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+780.ogg,Picking up or putting down the mop failed.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+782.ogg,Roller loosening failed. Please clean it.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+784.ogg,After step one I will leave the station automatically.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+785.ogg,Clean the washboard base by hand.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+786.ogg,Cleaning of the washboard base is finished.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+787.ogg,Returning to the station to clean the mop.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+795.ogg,Washboard base cleaning starts. About two minutes.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+797.ogg,Possible device fault. Contact customer service.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+798.ogg,Station self-cleaning is running. Do not move the robot.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+799.ogg,Time limit reached. Check for pets or obstacles.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+803.ogg,,,unknown,No public label for this file.
+805.ogg,Picking up large debris starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+812.ogg,Please place the robot in the station to charge.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+813.ogg,Strong suction of debris starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+814.ogg,Self-cleaning and strong suction start.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+823.ogg,Abnormal water level in the washboard. Please clean it.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50. On r5039h this file is what plays instead of 663.ogg.
+824.ogg,Roller mop has stopped or is blocked.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+828.ogg,The filter is worn out. Clean it soon.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+849.ogg,Drying of the dustbin and bag starts.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+850.ogg,Drying of the dustbin and bag paused.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+854.ogg,,,unknown,No public label for this file.
+856.ogg,Charging.,Заряджання.,voice_mapping,This model plays 856.ogg instead of 18.ogg.
+857.ogg,Please install the washboard.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+858.ogg,Place robot back onto the self-wash base before use.,"Перед використанням, поставте робота на базу для самоочищення.",voice_mapping,This model plays 858.ogg instead of 112.ogg.
+859.ogg,New environment is detected. Returning to the self-wash base.,Виявлено нове оточення. Повертаюсь на станцію для самоочищення.,voice_mapping,This model plays 859.ogg instead of 140.ogg.
+863.ogg,Please move robot to the dock to charge.,"Будь ласка, перемістіть робот на док-станцію для заряджання.",voice_mapping,This model plays 863.ogg instead of 17.ogg.
+864.ogg,Please move robot from the dock before turning it off.,"Будь ласка, перемыстыть робот з док-станції перед тим, як вимкнути його.",voice_mapping,This model plays 864.ogg instead of 19.ogg.
+910.ogg,Showroom greeting.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+911.ogg,,,unknown,No public label for this file.
+915.ogg,Abnormal water level in the washboard. Clean the filter.,,x50_catalog_de,English translation of a German hand label from the X50 catalog. Not checked by listening on the L50.
+917.ogg,,,unknown,No public label for this file.
+960.ogg,,,unknown,No public label for this file.
+1051.ogg,,,unknown,No public label for this file.
+1052.ogg,,,unknown,No public label for this file.
+1058.ogg,,,unknown,No public label for this file.
